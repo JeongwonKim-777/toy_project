@@ -1,0 +1,9 @@
+This is personal review for my poor practice.
+
+At first, I should consider the factor which may affect price change, not the pattern of the change.
+
+And, the objective is the prediction. I should show some kind of estimation of future price flow.
+
+Finally, as first data importing to python, I had to use several pandas command to preprocess raw data.
+
+Remember & fix it.
